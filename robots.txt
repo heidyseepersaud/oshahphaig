@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cephiyoor.omygod666.com/sitemap.xml
